@@ -310,9 +310,10 @@ min-width: 150px;
     color: white;
     font-size: 11px;
 }
-p {
+.text {
   text-align: justify;
 }
+
 
 
 
